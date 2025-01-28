@@ -1,0 +1,8 @@
+
+> flowise-components@2.2.4 build /Users/mikasiddiqui/Documents/GitHub/flow/packages/components
+> tsc && gulp
+
+[15:46:25] Requiring external module ts-node/register
+[15:46:25] Using gulpfile ~/Documents/GitHub/flow/packages/components/gulpfile.ts
+[15:46:25] Starting 'default'...
+[15:46:25] Finished 'default' after 89 ms

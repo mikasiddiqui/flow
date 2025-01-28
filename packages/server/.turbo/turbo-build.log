@@ -1,0 +1,5 @@
+ WARN  Unsupported engine: wanted: {"node":">=18.15.0 <19.0.0 || ^20"} (current: {"node":"v22.13.1","pnpm":"9.15.4"})
+
+> flowise@2.2.4 build /Users/mikasiddiqui/Documents/GitHub/flow/packages/server
+> tsc
+
